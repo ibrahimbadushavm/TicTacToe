@@ -1,4 +1,4 @@
-package java.models;
+package java.models.enums;
 
 public enum GameState {
     IN_PROGRESS,
